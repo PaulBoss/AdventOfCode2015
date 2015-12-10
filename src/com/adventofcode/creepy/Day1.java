@@ -10,7 +10,7 @@ public class Day1 {
 
 	public static void main(String[] args) {
 
-		try (BufferedReader reader = new BufferedReader(new InputStreamReader(Day3p2.class.getResourceAsStream("/input-day1.txt")));) {
+		try (BufferedReader reader = new BufferedReader(new InputStreamReader(Day1.class.getResourceAsStream("/input-day1.txt")));) {
 			
 			boolean first = true;
 			String line;
